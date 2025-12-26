@@ -1,0 +1,122 @@
+layout: {zmk_keyboard: lily58}
+layers:
+  default: [ESC, '1', '2', '3', '4', '5', '6', '7', '8', '9', '0', '`', TAB, Q, W, E, R, T, Y, U, I, O, P, '-', LSHFT, A, S, D, F, G, H, J, K, L, ;, '''', LCTRL,
+    Z, X, C, V, B, '[', ']', N, M, ',', ., /, RSHFT, LALT, LGUI, lower, SPACE, RET, raise, BSPC, RGUI]
+  lower:
+  - BT CLR
+  - {t: BT, h: '0'}
+  - {t: BT, h: '1'}
+  - {t: BT, h: '2'}
+  - {t: BT, h: '3'}
+  - {t: BT, h: '4'}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - F1
+  - F2
+  - F3
+  - F4
+  - F5
+  - F6
+  - F7
+  - F8
+  - F9
+  - F10
+  - F11
+  - F12
+  - '`'
+  - '!'
+  - '@'
+  - '#'
+  - $
+  - '%'
+  - ^
+  - '&'
+  - '*'
+  - (
+  - )
+  - '~'
+  - {t: ▽, type: trans}
+  - EP ON
+  - EP OFF
+  - EP TOG
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '-'
+  - +
+  - '{'
+  - '}'
+  - '|'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  raise:
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - PREV
+  - PP
+  - NEXT
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - VOL UP
+  - '`'
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  - '5'
+  - '6'
+  - '7'
+  - '8'
+  - '9'
+  - '0'
+  - MUTE
+  - F1
+  - F2
+  - F3
+  - F4
+  - F5
+  - F6
+  - LEFT
+  - DOWN
+  - UP
+  - RIGHT
+  - {t: ▽, type: trans}
+  - VOL DN
+  - F7
+  - F8
+  - F9
+  - F10
+  - F11
+  - F12
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - KP PLUS
+  - '-'
+  - '='
+  - '['
+  - ']'
+  - \
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
